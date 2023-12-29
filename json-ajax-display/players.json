@@ -1,0 +1,28 @@
+{
+    "players": [
+        {
+            "name": "Jude Bellingham",
+            "goals": 25
+        },
+        {
+            "name": "Rodrygo Goes",
+            "goals": 47
+        },
+        {
+            "name": "Federico Valverde",
+            "goals": 12
+        },
+        {
+            "name": "Vinicius Junior",
+            "goals": 32
+        },
+        {
+            "name": "Arda Guler",
+            "goals": 17
+        },
+        {
+            "name": "Eder Militao",
+            "goals": 9
+        }
+    ]
+}
